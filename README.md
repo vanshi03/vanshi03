@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm VANSHI MITTAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshi03" alt="vanshi03" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshi03&label=Profile%20views&color=0e75b6&style=flat" alt="vanshi03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vanshi_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/vanshi_mittal?logo=twitter&style=for-the-badge" alt="vanshi_mittal" /></a> </p>
