@@ -9,6 +9,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@TheQuoteBoook_: Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d0d7ed931fa78968c8e920ea4f2d899a2db0bd6b79d81c0f9766d36de2c71273128f3bc26588)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
