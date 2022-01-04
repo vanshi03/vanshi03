@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/vanshi_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/vanshi_mittal?logo=twitter&style=for-the-badge" alt="vanshi_mittal" /></a> </p>
 
+
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
 
 - 📫 How to reach me **v11mittal@gmail.com**
