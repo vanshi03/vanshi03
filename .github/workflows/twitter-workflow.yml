@@ -14,7 +14,7 @@ jobs:
       - uses: vanshi03/vanshi03@main
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://rss.app/feeds/QtXVV7UeoibKqbFg.xml"
+          feed_list: "<<[[https://rss.app/feeds/QtXVV7UeoibKqbFg.xml]]>>"
           commit_message: "Updated with the latest tweets"
           committer_username: "twitter-bot"
           committer_email: "twitter-bot@example.com"
