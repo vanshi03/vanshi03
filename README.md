@@ -11,6 +11,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@iaakritimalla: LAN, WAN, MAN toh CHAIN hi udha rakha hai.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7ddf17089561d46ee2ca167e128c39cc6a)
 - [@UrviGoel3: I see my younger siblings spend money as if they have richer parents than me](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a2da4e8e5ed8216d6c974d3e30bb04f76d9da60f3ab687cd817099762d369e6c4177a10)
 - [@TheQuoteBoook_: Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d0d7ed931fa78968c8e920ea4f2d899a2db0bd6b79d81c0f9766d36de2c71273128f3bc26588)
 <!-- TWITTER:END -->
