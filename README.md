@@ -11,9 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@CognitoSdg: The changes we need to bring are:1. Unsubscribe from emails you don’t need2. Delete spam emails3. Don’t sign up for newsletters you don&#39;t need.4.Delete emails after reading them. #LetTheEarthBreathe#Delete10Emails#sustainabledevelopment#SDGs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30b5efcbf68829818128d4f61eb1492ac7df6df2a56f7ed91c089461d068e1c31b7e1c8f)
+- [@CognitoSdg: According to the International Energy Agency, China emits 9.3GT CO2, the United States following up with 4.8GT, and India with 2.2GT. Russia Federation, Japan, Germany, and South Korea are below 2.0 GT. Check data here:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30b5efcbf68829818128d4f61eb1492ac7df6df2a56f7ed915089664dd68e7c717731389)
+- [@CognitoSdg: Spam,unread and unwanted emails all contribute to carbon emission. If we delete 500 unread emails &lpar;assuming they’re not important emails&rpar;, that would delete 175 grams of carbon dioxide if each email contributes 0.3 grams of CO2. #sustainabledevelopment #EarthDay#carbonfootprint](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30b5efcbf68829818128d4f61eb1492ac7df6df2a56f7edd150a9465d360e0c3167d1d8a)
 - [@iaakritimalla: LAN, WAN, MAN toh CHAIN hi udha rakha hai.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7ddf17089561d46ee2ca167e128c39cc6a)
 - [@UrviGoel3: I see my younger siblings spend money as if they have richer parents than me](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a2da4e8e5ed8216d6c974d3e30bb04f76d9da60f3ab687cd817099762d369e6c4177a10)
-- [@TheQuoteBoook_: Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d0d7ed931fa78968c8e920ea4f2d899a2db0bd6b79d81c0f9766d36de2c71273128f3bc26588)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
