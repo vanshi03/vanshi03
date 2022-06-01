@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@YajasSardana: 5 tips to sky rocket your DSA and problem solving skills:A thread🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e263eb8e0d1d18608818769c6ad0cb15d2d9d9d77f2a7697cde130b9162d76ee2c11b7d178e39c4)
 - [@ykdojo: Coding is hard, true.But I also know that anyone can do it.All you need is the ability to break down a complicated problem into small pieces.Once they’re small enough, they should be much less intimidating.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0634b6eec8edc809918773d2f150f4096bd1dd6cf7a76874dd1d0e9369d461e7ca)
 - [@iaakritimalla: IGDTUW clan with @reskilll @debug_mode ✨🌻#azuredevday #shebuildscode #javascript](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7fd9150e9064dc6be1c41b78178d3ec265)
 - [@aditi_11898: Women in Tech!✨Couldn&#39;t have asked for a better weekend!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cdf11099466d76ce8ca16721c8e3d)
 - [@debug_mode: Yesterday I gave a quick talk on Function Invocation Patterns and how they determine value of “this” in #JavaScript I would say good warmup before #ngIndia . Some of the students were really good with amazing questions Thanks @reskilll for hosting it 👍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3ab0f4c5dd8a15818328d4f61eb1492ac7df6df1a76d7fd610089a69dd68e4c0157d158c)
-- [@reskilll: A stage filled with four empowered women @shrankhla3 @anishastwt @dbhasin &amp; @niloshima #womenintech #shebuildcode #azuredevday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3aa1eacbee8b16ca9573c6f60ab61368dddc6df7a26f7ed812079562d468e8c41b7d)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
