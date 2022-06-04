@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@vanshi_mittal: Great initiative by @Eudaimonia_CSD to spread awareness about water footprint present in our food!!.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edd11089663d660e7c71b7d128833c266)
+- [@Eudaimonia_CSD: Hey everyone! We bring you a campaign &quot;Khana Bhi Peeta Hai&quot; where you have to make a poster depicting water footprint of a food item with its alternatives and post that poster as a reply to this tweet. Looking forward to your responses.@csd_igdtuw #khanabhipeetahai #csd #sdg3_6](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a2ab6e0cbef88148c8758e4d13bea4f2d899a2db0bd6b78dc15099a67d16de4ca1a781d8f33c56082)
 - [@YajasSardana: 5 tips to sky rocket your DSA and problem solving skills:A thread🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e263eb8e0d1d18608818769c6ad0cb15d2d9d9d77f2a7697cde130b9162d76ee2c11b7d178e39c4)
 - [@ykdojo: Coding is hard, true.But I also know that anyone can do it.All you need is the ability to break down a complicated problem into small pieces.Once they’re small enough, they should be much less intimidating.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0634b6eec8edc809918773d2f150f4096bd1dd6cf7a76874dd1d0e9369d461e7ca)
 - [@iaakritimalla: IGDTUW clan with @reskilll @debug_mode ✨🌻#azuredevday #shebuildscode #javascript](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7fd9150e9064dc6be1c41b78178d3ec265)
-- [@aditi_11898: Women in Tech!✨Couldn&#39;t have asked for a better weekend!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cdf11099466d76ce8ca16721c8e3d)
-- [@debug_mode: Yesterday I gave a quick talk on Function Invocation Patterns and how they determine value of “this” in #JavaScript I would say good warmup before #ngIndia . Some of the students were really good with amazing questions Thanks @reskilll for hosting it 👍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3ab0f4c5dd8a15818328d4f61eb1492ac7df6df1a76d7fd610089a69dd68e4c0157d158c)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
