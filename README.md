@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@csd_igdtuw: &quot;You may never know what results may come of your actions but if you do nothing, there will be no results&quot;Bringing you the from the desk of our Honourable VC Madam, The Patron of Center For Sustainable Development, IGDTUW#womenintech #igdtuw #CSD #empowereverymoment](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df0aa627bde13089767d461e9c616781189)
 - [@vanshi_mittal: Sustainable fashion according to me means designing and creating clothes and products in an eco-friendly and safe manner . This may include upcyling , recycling or even thrifting clothes!@InayatCsd #CareWearAndRepair](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edb14079762d16ae3c6177c128c3ac263)
 - [@vanshi_mittal: I hereby pledge to create and maintain strict and sustainable environmental standards, personally and professionally. @InayatCsd #CareWearAndRepair](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edc1c0d9b62d46ce3c6177e128b38c762)
 - [@vanshi_mittal: Great initiative by @Eudaimonia_CSD to spread awareness about water footprint present in our food!!.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edd11089663d660e7c71b7d128833c266)
 - [@Eudaimonia_CSD: Hey everyone! We bring you a campaign &quot;Khana Bhi Peeta Hai&quot; where you have to make a poster depicting water footprint of a food item with its alternatives and post that poster as a reply to this tweet. Looking forward to your responses.@csd_igdtuw #khanabhipeetahai #csd #sdg3_6](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a2ab6e0cbef88148c8758e4d13bea4f2d899a2db0bd6b78dc15099a67d16de4ca1a781d8f33c56082)
-- [@YajasSardana: 5 tips to sky rocket your DSA and problem solving skills:A thread🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e263eb8e0d1d18608818769c6ad0cb15d2d9d9d77f2a7697cde130b9162d76ee2c11b7d178e39c4)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
