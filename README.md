@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@csd_igdtuw: ‼️WE ARE LIVE ‼️CHECK THE BRAND NEW WEBSITE OF THE CENTER FOR SUSTAINABLE DEVELOPMENT IGDTUW 💻  #gogreen #futurehouse #technology #igdtuwcsd #sustainability #sustainablity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df7a16b75db1c0d9066dc6ce4c21172178d)
 - [@csd_igdtuw: Center For Sustainable Development is delighted to present the Student Advisory Board for the year 2022-23, Avantika Dewangan,5th year, B.ArchBhanupriya Sharma,4th B. Tech MAE Faria Choudhary,5th year, B.Arch Muskan Sharma,5th year, B.Arch Nandini Mishra,5th Year, B.Arch](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df0ab6f74db160e9162d26ce3c6137e178d)
 - [@csd_igdtuw: &quot;You may never know what results may come of your actions but if you do nothing, there will be no results&quot;Bringing you the from the desk of our Honourable VC Madam, The Patron of Center For Sustainable Development, IGDTUW#womenintech #igdtuw #CSD #empowereverymoment](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df0aa627bde13089767d461e9c616781189)
 - [@vanshi_mittal: Sustainable fashion according to me means designing and creating clothes and products in an eco-friendly and safe manner . This may include upcyling , recycling or even thrifting clothes!@InayatCsd #CareWearAndRepair](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edb14079762d16ae3c6177c128c3ac263)
 - [@vanshi_mittal: I hereby pledge to create and maintain strict and sustainable environmental standards, personally and professionally. @InayatCsd #CareWearAndRepair](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edc1c0d9b62d46ce3c6177e128b38c762)
-- [@vanshi_mittal: Great initiative by @Eudaimonia_CSD to spread awareness about water footprint present in our food!!.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7edd11089663d660e7c71b7d128833c266)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
