@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@ShowwcaseHQ: Frontend developers are in crisis 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37bdf6d5e1860980ae5688f10ba4482c9bc169f6a7697edb12099a68d36be6ca157c168f33)
 - [@Priyansh_31Dec: Maturity in competitive programming is realising:- DP is easier than Greedy- TLE is less scary than WA- All those DS and Algos are useless if you don&#39;t know what to use where- DFS is more useful than any other Graph/Tree algorithm- TLE is the best course for CP](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2dbbf8c3ec9412bad536e3e71cea4f2d899a2db0bd6b78da150f9764d16be2c1127910823ec76082)
 - [@paridhijain_02: DP is no more display picture for me🙂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ea0e8c6ea8e10848f69f8b24dea4f2d899a2db0bd6b78da14069064dd6fe8c1137e17893fcc6189)
 - [@vanshi_mittal: Divided by STREAMS United by MEMES 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f79d8100c9b60dc6de0c61772138232c567)
 - [@csd_igdtuw: ‼️WE ARE LIVE ‼️CHECK THE BRAND NEW WEBSITE OF THE CENTER FOR SUSTAINABLE DEVELOPMENT IGDTUW 💻  #gogreen #futurehouse #technology #igdtuwcsd #sustainability #sustainablity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df7a16b75db1c0d9066dc6ce4c21172178d)
-- [@csd_igdtuw: Center For Sustainable Development is delighted to present the Student Advisory Board for the year 2022-23, Avantika Dewangan,5th year, B.ArchBhanupriya Sharma,4th B. Tech MAE Faria Choudhary,5th year, B.Arch Muskan Sharma,5th year, B.Arch Nandini Mishra,5th Year, B.Arch](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb6decbe5830e909128d4f61eb1492ac7df6df0ab6f74db160e9162d26ce3c6137e178d)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
