@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@vanshi_mittal: When you want to send purple beating heart to your BTS fan Best friend but WhatsApp didn&#39;t allowed you to do the sameAnd so you write a petition to them and it&#39;s a feature now!!🤭PS: Kisi ne to meri suni 👀 @WhatsApp](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7adf14099465d26de2c71678148d3ec363)
 - [@SuperteamDAO: Still from the first @solana x superteam university meet up…👀reach out to @rishabhbansal97 if you’d like to organise one in your University &lpar;engineers only for now&rpar;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2aa2e4d0f6821b88a246e8ad0cb15d2d9d9d77f2a76c7ede160f9766d26ce7c2137b1c8932c5)
 - [@ShowwcaseHQ: Frontend developers are in crisis 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37bdf6d5e1860980ae5688f10ba4482c9bc169f6a7697edb12099a68d36be6ca157c168f33)
 - [@Priyansh_31Dec: Maturity in competitive programming is realising:- DP is easier than Greedy- TLE is less scary than WA- All those DS and Algos are useless if you don&#39;t know what to use where- DFS is more useful than any other Graph/Tree algorithm- TLE is the best course for CP](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2dbbf8c3ec9412bad536e3e71cea4f2d899a2db0bd6b78da150f9764d16be2c1127910823ec76082)
 - [@paridhijain_02: DP is no more display picture for me🙂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ea0e8c6ea8e10848f69f8b24dea4f2d899a2db0bd6b78da14069064dd6fe8c1137e17893fcc6189)
-- [@vanshi_mittal: Divided by STREAMS United by MEMES 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f79d8100c9b60dc6de0c61772138232c567)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
