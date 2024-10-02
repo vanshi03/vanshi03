@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@whois_harshal: #WhatsAppDownMe: *checks Wi-Fi* *disconnects from Wi-Fi**reconnects to Wi-Fi**checks WhatsApp**restarts phone**checks WhatsApp**checks Wi-Fi**finally checks Twitter*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0837bde8d1dd8f1b97956fc6ee50b648389c9b2beca36f75db1c0e9a64dc6de2c21079178f3ac467)
-- [@GingerPower_: When your WhatsApp is playing up but you come to Twitter and see that everyone else is having the same problem #WhatsAppDown](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3836bce6c7f0b715928375f8ad0cb15d2d9d9d77f2a76279d714099a64d66ae9c3107e108f3bc7)
-- [@vanshi_mittal: When you want to send purple beating heart to your BTS fan Best friend but WhatsApp didn&#39;t allowed you to do the sameAnd so you write a petition to them and it&#39;s a feature now!!🤭PS: Kisi ne to meri suni 👀 @WhatsApp](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f7adf14099465d26de2c71678148d3ec363)
-- [@SuperteamDAO: Still from the first @solana x superteam university meet up…👀reach out to @rishabhbansal97 if you’d like to organise one in your University &lpar;engineers only for now&rpar;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2aa2e4d0f6821b88a246e8ad0cb15d2d9d9d77f2a76c7ede160f9766d26ce7c2137b1c8932c5)
-- [@ShowwcaseHQ: Frontend developers are in crisis 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37bdf6d5e1860980ae5688f10ba4482c9bc169f6a7697edb12099a68d36be6ca157c168f33)
+- [@whois_harshal: #WhatsAppDownMe: *checks Wi-Fi* *disconnects from Wi-Fi**reconnects to Wi-Fi**checks WhatsApp**restarts phone**checks WhatsApp**checks Wi-Fi**finally checks Twitter*](https://twitter.com/whois_harshal/status/1584819495302234114)
+- [@GingerPower_: When your WhatsApp is playing up but you come to Twitter and see that everyone else is having the same problem #WhatsAppDown](https://twitter.com/GingerPower_/status/1584806943281254402)
+- [@vanshi_mittal: When you want to send purple beating heart to your BTS fan Best friend but WhatsApp didn&#39;t allowed you to do the sameAnd so you write a petition to them and it&#39;s a feature now!!🤭PS: Kisi ne to meri suni 👀 @WhatsApp](https://twitter.com/vanshi_mittal/status/1570067575354306560)
+- [@SuperteamDAO: Still from the first @solana x superteam university meet up…👀reach out to @rishabhbansal97 if you’d like to organise one in your University &lpar;engineers only for now&rpar;.](https://twitter.com/SuperteamDAO/status/1563120467460108290)
+- [@ShowwcaseHQ: Frontend developers are in crisis 😂😂😂](https://twitter.com/ShowwcaseHQ/status/1553346698637877248)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
