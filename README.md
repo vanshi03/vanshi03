@@ -11,11 +11,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [#WhatsAppDownMe: *checks Wi-Fi* *disconnects from Wi-Fi**reconnects to Wi-Fi**checks WhatsApp**restarts phone**checks WhatsApp**checks Wi-Fi**finally checks Twitter*](https://x.com/whois_harshal/status/1584819495302234114)
-- [When your WhatsApp is playing up but you come to Twitter and see that everyone else is having the same problem #WhatsAppDown](https://x.com/GingerPower_/status/1584806943281254402)
-- [When you want to send purple beating heart to your BTS fan Best friend but WhatsApp didn&#39;t allowed you to do the sameAnd so you write a petition to them and it&#39;s a feature now!!🤭PS: Kisi ne to meri suni 👀 @WhatsApp](https://x.com/vanshi_mittal/status/1570067575354306560)
-- [Still from the first @solana x superteam university meet up…👀reach out to @rishabhbansal97 if you’d like to organise one in your University &lpar;engineers only for now&rpar;.](https://x.com/SuperteamDAO/status/1563120467460108290)
-- [Frontend developers are in crisis 😂😂😂](https://x.com/ShowwcaseHQ/status/1553346698637877248)
+- [#WhatsAppDownMe: *checks Wi-Fi* *disconnects from Wi-Fi**reconnects to Wi-Fi**checks WhatsApp**restarts phone**checks WhatsApp**checks Wi-Fi**finally checks Twitter*](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a2830417031e173ea0f2cae38b55969266d3f70cea0d6cd0da60f2ab6e74da170f9162d66ce0c316)
+- [When your WhatsApp is playing up but you come to Twitter and see that everyone else is having the same problem #WhatsAppDown](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d72999282051915332f30a5e4d0ddc809918773d2f150f40961dcd668f5ab6e7edd1c0e9165d16ce1c0)
+- [When you want to send purple beating heart to your BTS fan Best friend but WhatsApp didn&#39;t allowed you to do the sameAnd so you write a petition to them and it&#39;s a feature now!!🤭PS: Kisi ne to meri suni 👀 @WhatsApp](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a38a050d18282032bbf5d6e38b55969266d3f70cea0d6cdfde68f5a56f7ada170a9763d56ee4c412)
+- [Still from the first @solana x superteam university meet up…👀reach out to @rishabhbansal97 if you’d like to organise one in your University &lpar;engineers only for now&rpar;.](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299869e1b1b02351a3ebfc5e3cdc809918773d2f150f4096fdbdf6af3a66c7adb120f9260dd6ae8c2)
+- [Frontend developers are in crisis 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d72998683040907221e2cb7c9f3ad940e849272d4ad4ef0096adbda6ef5ab627bdc13079467d76ce9)
 <!-- TWITTER:END -->
 
 - 🌱 I’m currently learning **HTML , CSS ,JS , ML**
